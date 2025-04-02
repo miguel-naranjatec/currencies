@@ -5,8 +5,9 @@
     "version": "1.0.0",
     "keywords": [
         "banzee",
-        "nominatim",
-        "openstreetmap"
+        "currencies",
+        "converter",
+        "money"
     ],
     "authors": [
         {
@@ -16,7 +17,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Banzee\\Nominatim\\": "src/"
+            "Banzee\\Currencies\\": "src/"
         }
     },
     "require": {
